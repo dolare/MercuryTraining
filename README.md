@@ -1,11 +1,4 @@
-###请求头
+##week1
+###[Day1](https://github.com/dolare/MercuryTraining/blob/master/Day1.md)
 
-chrome 6个并发请求
-web application 和 application的区别
-
-###data structure
-list map set tree
-
-###karma.js浏览器兼容性检查
-
-###unit test：1.normal test   2.edge test
+###[Day2](https://github.com/dolare/MercuryTraining/blob/master/Day2.md)
